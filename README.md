@@ -3,7 +3,7 @@ Welcome to my GitHub! Here are my projects (or at least those I am willing to sh
 If any of the projects in a list sounds interesting, feel free to take a deeper look in its respective repository.<br/>
 <sub>Projects are sorted by newest first. It includes project name, link to project repository, list of used technologies and a brief description.</sub>
 
-- [Todo app](https://github.com/Sefanovskis-Artjoms/vass_bootcamp). <sub>React/Next.js, Tailwind, Next.auth, Redux, Jest.</sub><br/>Simple todo app project was a React/Next.js bootcamp project at VASS. App contains:
+- [Todo app](https://github.com/Sefanovskis-Artjoms/vass_bootcamp). <sub>React/Next.js, MongoDB, Tailwind, Next.auth, Redux, Jest.</sub><br/>Simple todo app project was a React/Next.js bootcamp project at VASS. App contains:
   - CRUD logic for todo items,
   - register and login functionality implemented with next.auth,
   - role visibility policy,
