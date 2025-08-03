@@ -14,4 +14,4 @@ If any of the projects in a list sounds interesting, feel free to take a deeper 
 - [Pig counter](https://github.com/Sefanovskis-Artjoms/Pig-counter). <sub>PHP, HTML, CSS.</sub><br/>Small project to simplify tracking of a foreign objects that were identified in a different parts of a pig during procesing. Project was made for the employees of a slaughter house in england.
 - [Sudoku game](https://github.com/Sefanovskis-Artjoms/Sudoku). <sub>HTML, CSS, JS.</sub>
 - [Simple calculator](https://github.com/Sefanovskis-Artjoms/Simple-calculator). <sub>HTML, CSS, JS.</sub><br/>My first attempt at making pet projects.
-- [Car detailing companies web page](https://github.com/Sefanovskis-Artjoms/TGL). <sub>PHP, HTML, CSS, SQL.</sub><br/> This is a simple e-commerce store for imaginary company "The glow light" made as a diploma project in a technical school.
+- [Car detailing company web page](https://github.com/Sefanovskis-Artjoms/TGL). <sub>PHP, HTML, CSS, SQL.</sub><br/> This is a simple e-commerce store for imaginary company "The glow light" made as a diploma project in a technical school.
