@@ -3,7 +3,7 @@ Welcome to my GitHub! Here are my projects (or at least those I am willing to sh
 If any of the projects in a list sounds interesting, feel free to take a deeper look in its respective repository.<br/>
 <sub>Projects are sorted by newest first. It includes project name, link to project repository, list of used technologies and a brief description.</sub>
 
-- [Carcas Counters]([https://github.com/Sefanovskis-Artjoms/wordle-assistant](https://github.com/Sefanovskis-Artjoms/carcas-counters-public)). <sub>React/Next.js, SCSS, Tailwind, Typscript, SQL.</sub><br>Contamination tracking solution for a slaughterhouse.
+- [Carcas Counters](https://github.com/Sefanovskis-Artjoms/carcas-counters-public). <sub>React/Next.js, SCSS, Tailwind, Typscript, SQL.</sub><br>Contamination tracking solution for a slaughterhouse.
 - [Wordle assitant](https://github.com/Sefanovskis-Artjoms/wordle-assistant). <sub>HTML, CSS, JavaScript.</sub><br>Assistant at the Wordle word guessing game, where you enter your guesses and the status of each letter in the respective word and get a list of possible solutions.
 - [Todo app](https://github.com/Sefanovskis-Artjoms/vass_bootcamp). <sub>React/Next.js, MongoDB, Tailwind, Next.auth, Redux, Jest.</sub><br/>Simple todo app project was a React/Next.js bootcamp project at VASS. App contains:
   - Basic CRUD operations with todo items
