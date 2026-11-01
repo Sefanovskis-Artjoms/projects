@@ -5,7 +5,7 @@ If any of the projects in a list sound interesting, feel free to take a deeper l
 
 - [Pagrabiņš](https://github.com/Sefanovskis-Artjoms/pagrabins) · [Demo](https://github.com/Sefanovskis-Artjoms/projects). <sub>React/Next.js, SCSS, Tailwind, TypeScript</sub><br>Business card website for local cafe.
 - [Carcas Counters](https://github.com/Sefanovskis-Artjoms/carcas-counters-public). <sub>React/Next.js, SCSS, Tailwind, TypeScript, SQL.</sub><br>Contamination tracking solution for a slaughterhouse.
-- [Wordle assistant](https://github.com/Sefanovskis-Artjoms/wordle-assistant). <sub>HTML, CSS, JavaScript.</sub><br>Assistant at the Wordle word guessing game, where you enter your guesses and the status of each letter in the respective word and get a list of possible solutions.
+- [Wordle assistant](https://github.com/Sefanovskis-Artjoms/wordle-assistant) · [Demo](https://wordle-assistant.artjoms200.workers.dev/). <sub>HTML, CSS, JavaScript.</sub><br>Assistant at the Wordle word guessing game, where you enter your guesses and the status of each letter in the respective word and get a list of possible solutions.
 - [Todo app](https://github.com/Sefanovskis-Artjoms/vass_bootcamp). <sub>React/Next.js, MongoDB, Tailwind, Next.auth, Redux, Jest.</sub><br/>A simple todo app from a React/Next.js bootcamp project at VASS. App contains:
   - Basic CRUD operations with todo items
   - Role visibility policy
